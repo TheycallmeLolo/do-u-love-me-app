@@ -38,7 +38,7 @@ The app asks:
 
 ## 📸 Preview
 
-> Add a GIF here (highly recommended 🚀)
+![Image](https://github.com/user-attachments/assets/0e57567c-0b07-45c8-9f30-bc7903de69c7)
 
 ---
 
