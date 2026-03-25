@@ -1,11 +1,11 @@
-# 💖 Do U Love Me?
+# Do U Love Me?
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Fun%20Project-ff69b4?style=for-the-badge)
 
-A fun interactive desktop app built with Python 😄
+A fun interactive desktop app built with Python 
 Try to click **"No"... if you can 👀**
 
 ---
